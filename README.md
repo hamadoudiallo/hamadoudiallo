@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **hamadou-pro@hotmail.fr**
 
-- ⚡ Fun fact **Speak other langage than HTML & JS like arabic**
+- ⚡ Fun fact **Speak other langage than HTML & JS **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
