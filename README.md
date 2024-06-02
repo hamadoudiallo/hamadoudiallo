@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamadou</h1>
 <h3 align="center">A futur web developer from France (currently in training at oclock school)</h3>
 
-- 📫 How to reach me **hamadou-pro@hotmail.fr**
+- 📫 How to reach me **d.hamadoupro@gmail.com**
 
 - ⚡ Fun fact **Speak other langage than HTML & JS **
 
